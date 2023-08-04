@@ -4,22 +4,22 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/pB07c82.png" alt="Logo" width="180" height="100">
   </a>
 
 <h3 align="center">Tool Support System</h3>
 
   <p align="center">
-    project_description
+    Tools supports to create, monitor,... system
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/github_username/repo_name"><strong>Created Zatair</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_username/repo_name">Linux</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/github_username/repo_name/issues">Windows</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/github_username/repo_name/issues">Docker</a>
   </p>
 </div>
 
@@ -30,7 +30,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Script install docker on Linux</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -54,16 +54,21 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Script install Docker on Linux 
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Support Ubuntu and Centos
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
+Script will install automatically Docker and Portainer
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+Pull script
 
-
-
+```
+git clone
+```
+Run script to install
+```
+./script_install_docker.sh 
+```
 ### Built In
 
 * [![Next][Next.js]][Next-url]
