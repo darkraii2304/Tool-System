@@ -59,11 +59,10 @@
 Support Ubuntu and Centos
 
 Script will install automatically Docker and Portainer
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 Pull script
 
 ```
-git clone
+git clone https://github.com/darkraii2304/Tool-System.git
 ```
 Run script to install
 ```
